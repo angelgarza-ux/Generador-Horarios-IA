@@ -1,0 +1,6 @@
+{
+  "name": "SilverEduPro Generador Horarios",
+  "description": "Generador profesional de horarios en formato Excel tipo Google Calendar y solucionador automático de restricciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
